@@ -81,7 +81,7 @@ def logo(n):
 \33[37m██   ██║██╔══██║██╔══██║██║     ██║     ██╔══██║
 \33[37m╚█████╔╝██║  ██║██║  ██║███████╗███████╗██║  ██║
 \33[37m╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
- {J}•{L}•{A}• {P}MULTI BRUTE FORCE FACEBOOK {J}•{L}•{A}•""")
+ {M}•{K}•{H}• {P}MULTI BRUTE FORCE FACEBOOK {M}•{K}•{H}•""")
 def logo2():
 	return str(f"""
 \33[31m     ██╗██╗  ██╗ █████╗ ██╗     ██╗      █████╗ 
@@ -90,7 +90,7 @@ def logo2():
 \33[37m██   ██║██╔══██║██╔══██║██║     ██║     ██╔══██║
 \33[37m╚█████╔╝██║  ██║██║  ██║███████╗███████╗██║  ██║
 \33[37m╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-   {J}>{L}>{A}> {P}CHECKING FOR LOGIN {J}<{L}<{A}<""")
+   {M}>{K}>{H}> {P}CHECKING FOR LOGIN {M}<{K}<{H}<""")
 
 ###---[ TANGGAL ]---###
 sasi = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"]
